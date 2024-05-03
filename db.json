@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "username": "karthika",
+      "email": "k@gmail.com",
+      "password": "12345",
+      "phone": "9629604674",
+      "id": 1
+    },
+    {
+      "username": "gayu",
+      "email": "gayu@gmail.com",
+      "password": "123456",
+      "phone": "9629604674",
+      "id": 2
+    },
+    {
+      "username": "anu",
+      "email": "a@gmail.com",
+      "password": "98765",
+      "phone": "9865454",
+      "id": 3
+    },
+    {
+      "username": "asha",
+      "email": "asha@gmail.com",
+      "password": "123",
+      "phone": "98654548877",
+      "id": 4
+    },
+    {
+      "username": "vishnu",
+      "email": "v@gmail.com",
+      "password": "1234",
+      "phone": "986577",
+      "id": 5
+    },
+    {
+      "username": "king",
+      "email": "king@gmail.com",
+      "password": "12",
+      "phone": "986587667",
+      "id": 6
+    },
+    {
+      "username": "sobith",
+      "email": "sobi@gmail.com",
+      "password": "100",
+      "phone": "986579887",
+      "id": 7
+    },
+    {
+      "username": "varsha",
+      "email": "v@gmail.com",
+      "password": "101",
+      "phone": "9868579887",
+      "id": 8
+    },
+    {
+      "username": "Isai",
+      "email": "i@gmail.com",
+      "password": "102",
+      "phone": "9579887",
+      "id": 9
+    },
+    {
+      "username": "Jenifa",
+      "email": "j@gmail.com",
+      "password": "103",
+      "phone": "957989887",
+      "id": 10
+    },
+    {
+      "username": "karthika",
+      "email": "karthika@gmail.com",
+      "password": "12345",
+      "phone": "9629604674",
+      "id": 11
+    }
+  ]
+}
